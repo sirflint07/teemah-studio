@@ -107,7 +107,7 @@ export function Footer() {
             © {new Date().getFullYear()} {site.name}. All rights reserved.
           </p>
           <p className="text-xs text-white/50">
-            Crafted with intention in Ibadan, Nigeria.
+            Built by <span className="text-gold-500"><a href="https://golden-designs-studio.vercel.app/" target="_blank" rel="noopener noreferrer">Fajobi Michael Oluwaseun</a></span>
           </p>
         </div>
       </div>
